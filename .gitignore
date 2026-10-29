@@ -29,3 +29,6 @@ playwright-report/
 *.sw?
 
 .vercel/
+
+# Local credentials — never commit
+CREDENTIALS.md
